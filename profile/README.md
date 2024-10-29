@@ -1,8 +1,5 @@
 # PVCS
 ## Hi there 👋 Welcome to PVCS
-- ONE
-- TWO
-- THREE
 
 ```
 def hello_world_fancy():
